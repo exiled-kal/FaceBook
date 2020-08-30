@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  padding: 15px 20px;
+  justify-content: space-between;
+  position: sticky;
+  
+}
+
+.header__left > img {
+  height: 40px;
+}

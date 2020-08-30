@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    
+}
+
+
+.header__left > img {
+  height: 40px;
+
+}
